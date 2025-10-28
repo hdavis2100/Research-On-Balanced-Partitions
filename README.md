@@ -1,2 +1,3 @@
 # Research-On-Balanced-Partitions
-PDF of my mathematics research
+
+This repository contains a pdf of my thesis on balanced connected graph partitions. 
